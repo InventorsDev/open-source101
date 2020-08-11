@@ -8,5 +8,5 @@
 - Add your name, after the last name
 - Commit changes
 - You should see a button `Create Pull Request`
-- Create pull request with the default details
+- Create pull request with the default options
 - All Done 🎉
