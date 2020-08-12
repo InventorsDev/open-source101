@@ -9,3 +9,4 @@ Note ⚠️: Use this format to add your name
 - Elon Musk
 - Joel Olawanle
 - Kehinde Owoputi
+- Adebayo Silas
