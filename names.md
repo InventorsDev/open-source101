@@ -8,3 +8,4 @@ Note ⚠️: Use this format to add your name
 - Mark Zuckerberg
 - Elon Musk
 - Joel Olawanle
+- Kehinde Owoputi
