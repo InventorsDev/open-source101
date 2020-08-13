@@ -12,3 +12,5 @@ Note ⚠️: Use this format to add your name
 - Adebayo Silas
 - Oluleye Joshua
 - Emmanuel Olotu
+- Gbadebo Samuel
+- Eunit
