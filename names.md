@@ -14,3 +14,4 @@ Note ⚠️: Use this format to add your name
 - Emmanuel Olotu
 - Gbadebo Samuel
 - Eunit
+- Madhava Reddy Madathala
